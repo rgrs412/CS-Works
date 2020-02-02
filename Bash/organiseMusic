@@ -5,9 +5,9 @@ for (( i=1; i<$numOfFiles + 1; ++i )) ; do
    if [[ $fileName == *".mp3" ]] ; then
 	   artistDir=${fileName%" -"*}
  	   mp3File=${fileName#*"- "}
-		mkdir -p "$artistDir"
+	   mkdir -p "$artistDir"
 	   mv "$fileName" "$mp3File"
-		mv -i "$mp3File" "$artistDir"
+	   mv -i "$mp3File" "$artistDir"
    fi
 done
 exit 0
