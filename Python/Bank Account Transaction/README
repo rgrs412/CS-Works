@@ -1,3 +1,7 @@
+# accounts.py: Uses a log file that contains a list of account transactions (deposits and withdrawals),
+# to create and give the options to show a specific account's info or transaction history.
+# There's also an option to insert a transaction to a specific account.
+
 To run the program:
 1) export ACCT_LIST=sample.log
 2) make
