@@ -1,1 +1,22 @@
+These are some Bash scripts I wrote for my
+"Advanced Programming Tools and Techniques" course at Drexel.
 
+count.bash :
+    For each regular file in the working directory, prints the filename, the # of lines, and the # of words to stdout.
+    Example output: 
+      breadIsDangerous.txt 73 431
+      spellExample 5 21
+
+organiseMusic :
+    A script that looks in the current directory for mp3 files, then breaks the file name out into artist and song title,
+    The file name is in the format: "Ween - Ocean Man.mp3"
+    The script creates the appropriate directory(artist name) if it doesn't already exist,
+    and removes the artist and the first ' - ' from the file name, and moves it into the directory.
+
+    
+reextend :
+    A script that accepts two file extensions as command line arguments and
+    renames all files with the first extension within the current working directory 
+    to have the second extension instead.
+    Example command: ./reextend .log .txt
+    
