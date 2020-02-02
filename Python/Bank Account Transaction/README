@@ -1,6 +1,6 @@
 This program was for an assignment in my
 "Advanced Programming Tools and Technique" course at Drexel.
-We could choose to do the assignment with Bash, Java, Python, etc.
+We had the option to do the assignment with Bash, Java, Python, etc.
 
 We were to use a log file that contain a list of account transactions (deposits and withdrawals),
 to create and give the options to show a specific account's info or transaction history.
