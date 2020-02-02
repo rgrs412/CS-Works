@@ -1,2 +1,14 @@
 To run the program:
-export ACCT_LIST=sample
+1) export ACCT_LIST=sample.log
+2) make
+3) ./accounts
+
+Running "accounts" should give the instructions below:
+
+Execute with the following options:
+   -i View Account Information
+   -h View Account History
+   -t Insert Transaction
+   -? Show Usage Message
+
+
