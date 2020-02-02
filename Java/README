@@ -1,1 +1,11 @@
+These are Java project folders that can be opened on
+IDEs such as NetBeans or IntelliJ.
 
+For the project folders named "Module/[0-9]/", navigate to the "Assignment" folder.
+An example path is "Module1/src/Assignment/".
+The "Assignment" folder in each "Module" folder will contain a 
+PDF file that will explain the functions of the respective Java programs.
+The Java source code file will also include comments that explain the Java program.
+
+For the other Java project folders, navigate to the "src" folder
+to find the java source code.
