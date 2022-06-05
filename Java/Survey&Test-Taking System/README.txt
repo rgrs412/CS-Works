@@ -1,3 +1,6 @@
+Run Driver.java.
+Java Version 11.0.8
+
 1) 	
 	The surveys are saved into the "Surveys" directory after
 	saving them through the Menu.
