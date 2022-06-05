@@ -1,5 +1,3 @@
-All requirements for homework 2 part D is completed. Hopefully.
-
 1) 	
 	The surveys are saved into the "Surveys" directory after
 	saving them through the Menu.
