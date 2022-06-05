@@ -39,21 +39,10 @@ All requirements for homework 2 part D is completed. Hopefully.
 	program generate the directory to store a response.
 
 
-Note1:
-In addition to the hw instruction of not allowing a user 
-to take a survey/test if it's not loaded,
-I also added a restriction to not allow
-a user to take a survey/test without
-saving it. The reason is that there
-will be a case where you havn't
-saved the survey, but you have
-response(s) generated for that unsaved survey;
-This may cause problems.
-
-Note2: Delete the "Surveys" and "Tests" directory
+Note: Delete the "Surveys" and "Tests" directory
 to start fresh. The "Surveys" or "Tests" directory
 will be generated when the first survey/test is saved.
 
-Note3: The "sampe_questions.txt"
+Note: The "sampe_questions.txt"
 file include the questions I used to 
 create "Survey 1" and "Test 1. 
